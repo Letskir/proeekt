@@ -42,5 +42,12 @@ text-align: center;
 .img-div{border: #8d5139 2px solid;
 border-radius: 10px ;
 padding: 10px;
-display: flex;
-flex-wrap: wrap;} 
+ 
+display: block;
+text-align: center;}
+
+.background-btn{    background-color: #1C4333;}
+.pic{padding-top: 8px; background-image:"https://static.stratege.ru/trophies/NPWR04270_00/TROP035.PNG";}
+.name{    position: absolute;
+    top: 86px;
+    left: 31px;}
