@@ -1,1 +1,46 @@
- 
+body{color: burlywood;
+padding: 0;
+display: flex;
+flex-direction: column;
+background: #5a433a;
+border: #8d5139 2px solid;
+border-radius: 10px ;
+height: 600px;
+font-family: "Comic Sans MS"
+}
+
+h1{ 
+padding: 36px  ;
+padding-left: 50px;
+width: 90%;
+}
+
+.content-body{
+flex: 1 1 auto;
+display: flex;
+padding: 10px;
+align-content: center;
+justify-content: center;
+align-items: flex-start;
+border: #8d5139 2px solid;
+border-radius: 10px ;}
+
+
+.vse{min-width: 300px;
+width: 100%;
+height: auto;
+display: flex;
+flex-wrap: wrap;
+border: #8d5139 2px solid;
+border-radius:10px ;
+ }
+.text1{
+padding: 10px;
+text-align: center;
+
+}
+.img-div{border: #8d5139 2px solid;
+border-radius: 10px ;
+padding: 10px;
+display: flex;
+flex-wrap: wrap;} 
