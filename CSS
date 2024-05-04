@@ -1,51 +1,52 @@
 body{background-image: url("https://kartinki.pics/uploads/posts/2021-07/1625602978_30-kartinkin-com-p-terrariya-foni-biomov-krasivie-foni-35.png");
-font-family: Comic Sans MS;}
+    font-family: Comic Sans MS;}
+    
+    
+    .logo{height:100px;
+    width:280px;}
+    
+    .global_div{background-color:rgb(53, 53, 53);
+    color: white;
+    border:3px solid rgb(49, 49, 49);
+    height: 500px;
+    border-radius: 5px;
+    width:1300px;
+    display:flex;
+    margin-right: auto;
+    margin-left: auto;
+    
+    }
+    
+    .logo_text{font-size: 30px;
+    margin-left: 10px;}
+    
+    .underlogo_text{padding-left: 20px;
+    }
+    
+    .img_href{
+        height:64px;
+        width:64px;
+    
+    }
+    .nav_href{border:2px solid white;
+    background-color:#086749;
+    margin:5px;
+    padding: 9px;
+    height: 100px;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 12px;}
+    
+    nav{text-align:  center;
+    display: flex;
+    flex-direction: row;
+    }
+    
+    .scroll_div{width: 1500px;
+        height: 200px;
+        background-color:rgb(53, 53, 53);
+    border:2px solid rgb(49, 49, 49);
+    border-radius: 10px;
 
-
-.logo{height:100px;
-width:280px;}
-
-.global_div{background-color:rgb(53, 53, 53);
-color: white;
-border:3px solid rgb(49, 49, 49);
-height: 500px;
-border-radius: 5px;
-width:1300px;
-display:flex;
-margin-right: auto;
-margin-left: auto;
-
-}
-
-.logo_text{font-size: 30px;
-margin-left: 10px;}
-
-.underlogo_text{padding-left: 20px;
-}
-
-.img_href{
-    height:100px;
-    width:100px;
-
-}
-.nav_href{border:2px solid white;
-background-color:#086749;
-margin:5px;
-padding: 9px;
-height: 130px;
-border-radius: 10px;
-color: white;
-text-decoration: none;}
-
-nav{text-align:  center;
-display: flex;
-flex-direction: row;
-}
-
-.scroll_div{width: 1500px;
-    height: 200px;
-    background-color:rgb(53, 53, 53);
-border:2px solid rgb(49, 49, 49);
-border-radius: 10px;
-overflow-x: auto;
-}
+    }
