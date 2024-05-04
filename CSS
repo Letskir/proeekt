@@ -13,7 +13,9 @@ border-radius: 5px;
 width:1300px;
 display:flex;
 margin-right: auto;
-margin-left: auto;}
+margin-left: auto;
+
+}
 
 .logo_text{font-size: 30px;
 margin-left: 10px;}
@@ -31,7 +33,9 @@ background-color:#086749;
 margin:5px;
 padding: 9px;
 height: 130px;
-border-radius: 10px;}
+border-radius: 10px;
+color: white;
+text-decoration: none;}
 
 nav{text-align:  center;
 display: flex;
@@ -41,4 +45,7 @@ flex-direction: row;
 .scroll_div{width: 1500px;
     height: 200px;
     background-color:rgb(53, 53, 53);
-border:2px solid rgb(49, 49, 49);}
+border:2px solid rgb(49, 49, 49);
+border-radius: 10px;
+overflow-x: auto;
+}
