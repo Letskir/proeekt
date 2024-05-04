@@ -32,7 +32,7 @@ body{background-image: url("https://kartinki.pics/uploads/posts/2021-07/16256029
     background-color:#086749;
     margin:5px;
     padding: 9px;
-    height: 100px;
+    height: 90px;
     border-radius: 10px;
     color: white;
     text-decoration: none;
@@ -44,9 +44,7 @@ body{background-image: url("https://kartinki.pics/uploads/posts/2021-07/16256029
     }
     
     .scroll_div{width: 1500px;
-        height: 200px;
-        background-color:rgb(53, 53, 53);
-    border:2px solid rgb(49, 49, 49);
-    border-radius: 10px;
-
+        height: 100px;
     }
+    .text{width: 600px;
+    height: 600px;}
