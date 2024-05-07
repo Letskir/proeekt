@@ -36,7 +36,8 @@ body{background-image: url("https://kartinki.pics/uploads/posts/2021-07/16256029
     border-radius: 10px;
     color: white;
     text-decoration: none;
-    font-size: 12px;}
+    font-size: 12px;
+    width: 70px;}
     
     nav{text-align:  center;
     display: flex;
@@ -46,5 +47,6 @@ body{background-image: url("https://kartinki.pics/uploads/posts/2021-07/16256029
     .scroll_div{width: 1500px;
         height: 100px;
     }
+    
     .text{width: 600px;
     height: 600px;}
