@@ -2,10 +2,10 @@ body{background-image: url("https://kartinki.pics/uploads/posts/2021-07/16256029
     font-family: Comic Sans MS;}
     
     
-    .logo{height:100px;
+.logo{height:100px;
     width:280px;}
     
-    .global_div{background-color:rgb(53, 53, 53);
+.global_div{background-color:rgb(53, 53, 53);
     color: white;
     border:3px solid rgb(49, 49, 49);
     height: 500px;
@@ -17,18 +17,18 @@ body{background-image: url("https://kartinki.pics/uploads/posts/2021-07/16256029
     
     }
     
-    .logo_text{font-size: 30px;
+.logo_text{font-size: 30px;
     margin-left: 10px;}
     
-    .underlogo_text{padding-left: 20px;
+.underlogo_text{padding-left: 20px;
     }
     
-    .img_href{
+.img_href{
         height:64px;
         width:64px;
     
     }
-    .nav_href{border:2px solid white;
+.nav_href1,.nav_href2,.nav_href3,.nav_href4,.nav_href5,.nav_href6,.nav_href7,.nav_href8,.nav_href9,.nav_href10{border:2px solid white;
     background-color:#086749;
     margin:5px;
     padding: 9px;
@@ -39,14 +39,14 @@ body{background-image: url("https://kartinki.pics/uploads/posts/2021-07/16256029
     font-size: 12px;
     width: 70px;}
     
-    nav{text-align:  center;
+nav{text-align:  center;
     display: flex;
     flex-direction: row;
     }
     
-    .scroll_div{width: 1500px;
+.scroll_div{width: 1500px;
         height: 100px;
     }
     
-    .text{width: 600px;
+.text{width: 600px;
     height: 600px;}
