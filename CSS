@@ -1,3 +1,4 @@
+
 body{background-image: url("https://kartinki.pics/uploads/posts/2021-07/1625602978_30-kartinkin-com-p-terrariya-foni-biomov-krasivie-foni-35.png");
     font-family: Comic Sans MS;}
     
@@ -8,45 +9,96 @@ body{background-image: url("https://kartinki.pics/uploads/posts/2021-07/16256029
 .global_div{background-color:rgb(53, 53, 53);
     color: white;
     border:3px solid rgb(49, 49, 49);
-    height: 500px;
+    height: 600px;
     border-radius: 5px;
     width:1300px;
-    display:flex;
-    margin-right: auto;
-    margin-left: auto;
+  margin:  0 auto;
     
     }
+
+    
     
 .logo_text{font-size: 30px;
-    margin-left: 10px;}
+   }
     
-.underlogo_text{padding-left: 20px;
-    }
+
     
 .img_href{
         height:64px;
         width:64px;
     
     }
-.nav_href1,.nav_href2,.nav_href3,.nav_href4,.nav_href5,.nav_href6,.nav_href7,.nav_href8,.nav_href9,.nav_href10{border:2px solid white;
-    background-color:#086749;
-    margin:5px;
-    padding: 9px;
-    height: 90px;
+
+
+
+    .navі1,.navі2,.navі3,.navі4,.navі5,.navі6,.navі7,.navі8,.navі9,.navі10{border:2px solid white;
+        width: 120px;
+        height: 120px;
+        padding: 10px;
+        margin-left: 15px;
+       
     border-radius: 10px;
-    color: white;
-    text-decoration: none;
-    font-size: 12px;
-    width: 70px;}
+    background-color:#086749;
+    }
+
     
-nav{text-align:  center;
+.scroll_div{text-align:  center;
     display: flex;
-    flex-direction: row;
+   justify-content: space-evenly;
+   width: 1000px;
+   margin:  0 auto;
+   
     }
     
-.scroll_div{width: 1500px;
-        height: 100px;
+.logo_text{padding-left: 20px;
+margin-bottom: 20px;}
+
+
+  .underlogo_text{padding-left: 20px;}  
+
+.text{font-size: 20px;
+width: 800px;
+margin:  0 auto;
+margin-top: 40px;
+height: 400px;}
+
+
+
+    .slider {top: 100px;
+        position: relative;
+      margin: 0 auto;
+        overflow: hidden;
+        width: 900px;
     }
     
-.text{width: 600px;
-    height: 600px;}
+    .slides {width: 800px;
+        display: flex;
+        margin: 0 auto;
+    }
+    
+    .slides img {
+        width: 100%;
+        height: 300px;
+        display: none;
+    }
+    
+    .prev,
+    .next {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background-color: rgba(0, 0, 0, 0.5);
+        color: white;
+        border: none;
+        cursor: pointer;
+        padding: 10px;
+        z-index: 1;
+    }
+    
+    .prev {
+        left: 0;
+    }
+    
+    .next {
+        right: 0;
+    }
